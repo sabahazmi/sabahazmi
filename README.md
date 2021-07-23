@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href="https://www.linkedin.com/in/sabahazmi/">Sabah Azmi</a> :male_sign: :libra: from :india:
+- 👋 Hi, I’m <a href="https://www.linkedin.com/in/sabahazmi/">Sabah Azmi</a> :male_sign: :libra:
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently pursuing MS - Data Science & Analytics from Universiti Sains Malaysia.
 - :e-mail: Reach me : sabahazmi@live.com
