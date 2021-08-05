@@ -1,11 +1,18 @@
-- 👋 Hi, I’m <a href="https://www.linkedin.com/in/sabahazmi/">Sabah Azmi</a> :male_sign: :libra:
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently pursuing MS - Data Science & Analytics from Universiti Sains Malaysia.
-- :e-mail: Reach me : sabahazmi@live.com
-- :trident: Follow me on <a href="https://twitter.com/sabahazmisays">Twitter</a> | <a href="https://facebook.com/sabahazmi">Facebook</a> | <a href="https://instagram.com/sabah_azmi">Instagram</a>
-<!---
-- 💞️ I’m looking to collaborate on machine learning problems.
+### Hi there 👋, I am Sabah Azmi from India
+#### I’m interested in Data Science and Machine Learning. 
+I’m currently pursuing MS Data Science & Analytics from Universiti Sains Malaysia.
 
-sabahazmi/sabahazmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: PYTHON / PHP / JAVA / ML / JS / HTML / CSS
+
+- 🔭 I’m currently working on machine learning projects. 
+- 🌱 I’m currently learning data science.
+- 👯 I’m looking to collaborate on machine learning and data science.
+- 📫 How to reach me: sabahazmi@live.com 
+
+![Sabah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabahazmi&count_private=true&show_icons=true&theme=radical)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabahazmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabahazmi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sabahazmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sabah_azmi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sabahazmisays)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sabahazmi)  
+
+ 
+
+![Profile views](https://gpvc.arturio.dev/sabahazmi)  
