@@ -1,7 +1,8 @@
 # Sabah Azmi
 #### Hi there 👋, I am Sabah Anwar Azmi from India
 #### I’m interested in Data Science and Machine Learning. 
-#### I’m currently pursuing MS Data Science & Analytics from Universiti Sains Malaysia.
+#### I’m currently pursuing MS Data Science & Analytics.
+[![USM Logo](https://www.usm.my/templates/yootheme/cache/usm-white-475e851a.png)](https://www.usm.my/)
 
 Skills: PYTHON / PHP / JAVA / PowerBI / JS / HTML / CSS
 
