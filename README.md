@@ -4,7 +4,7 @@
 #### I’m currently pursuing MS Data Science & Analytics.
 [![USM Logo](https://www.usm.my/templates/yootheme/cache/usm-white-475e851a.png)](https://www.usm.my/)
 
-Skills: ![Python](https://www.python.org/static/community_logos/python-logo.png) PYTHON / PHP / JAVA / PowerBI / JS / HTML / CSS
+Skills: ![Python](https://www.python.org/static/community_logos/python-powered-w.svg)  / PHP / JAVA / PowerBI / JS / HTML / CSS
 
 - 🔭 I’m currently working on machine learning projects. 
 - 🌱 I’m currently learning data science, data analytics, machine learning.
