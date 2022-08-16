@@ -1,10 +1,12 @@
 # Sabah Azmi
 #### Hi there 👋, I am Sabah Anwar Azmi from India
+#### Working as Data Analyst Intern at Gurucool, New Delhi
 #### I’m interested in Data Science and Machine Learning. 
 #### I’m currently pursuing MS Data Science & Analytics.
 [![USM Logo](https://www.usm.my/templates/yootheme/cache/usm-white-475e851a.png)](https://www.usm.my/)
 
-Skills: ![Python](https://www.python.org/static/community_logos/python-powered-w.svg)  / PHP / JAVA / PowerBI / JS / HTML / CSS
+# Skills: 
+ PYTHON | PHP | JAVA | PowerBI | JavaScript | HTML | CSS
 
 - 🔭 I’m currently working on machine learning projects. 
 - 🌱 I’m currently learning data science, data analytics, machine learning.
