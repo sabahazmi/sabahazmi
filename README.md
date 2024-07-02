@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning data science, data analytics, machine learning.
 - 👯 I’m looking to collaborate on machine learning and data science projects.
 - 📫 How to reach me: sabahazmi@live.com 
-- Download <a href="https://www.linkedin.com/in/sabahazmi/overlay/1635510149476/single-media-viewer?type=DOCUMENT&profileId=ACoAABjnTQYBf5By3L4gmD7tTWT8FLMq2T0qOaI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2FNqvK%2BtuQ0C9%2BtMxIQPm5Q%3D%3D" target="_blank">Resume</a>
+- Download <a href="https://www.canva.com/design/DAF9bVbCMCs/2nV_Oj2AWEtNLXTa8L6kjw/view?utm_content=DAF9bVbCMCs&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Resume</a>
 
 <!-- ![Sabah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabahazmi&count_private=true&show_icons=true&theme=radical) -->
 
